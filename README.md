@@ -1,2 +1,7 @@
 Testing...
-https://tanneo9.github.io/TestRom.github.io/The%20Legend%20of%20Zelda%20-%20Ocarina%20of%20Time.es.z64
+
+https://tanneo9.github.io/TestRom.github.io/LoZOoT1.0.z64
+https://tanneo9.github.io/TestRom.github.io/LoZOoT1.1.z64
+https://tanneo9.github.io/TestRom.github.io/LoZOoT1.2.z64
+
+https://tanneo9.github.io/TestRom.github.io/LoZMM.z64
